@@ -1,5 +1,5 @@
 # ProvaP1-BDNR-2024-1
-Este é um repositório de um graduando em Engenharia de Software: Marcos Reis - 5º período - Univassouras (Marica) Disciplina BD não Relacionais - Professor: Fabricio Dias
+Este é um repositório de um graduando em Engenharia de Software: Marcos Reis - 5º período - Univassouras (Marica) Disciplina BD não Relacionais - Professor: Fabricio Dias Veja abaixo o Resumo do projeto P1
 
 
 RESUMO
